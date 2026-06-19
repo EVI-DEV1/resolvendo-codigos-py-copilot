@@ -97,7 +97,7 @@ Verifique a instalação do Python:
 python --version
 ```
 
-## Como executar os exemplos
+## 6 - Como executar os exemplos
 
 1. Clone o repositório:
 
